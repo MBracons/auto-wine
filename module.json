@@ -1,0 +1,10 @@
+{
+    "name": "autowine",
+    "author": "chad",
+    "description": "Uses automatically correspondent wine to your class in dungeon zones when in combat.",
+    "options": {
+        "niceName": "Auto Wine",
+        "guiName": "Auto Wine"
+    },
+    "version": "v108.2"
+}
